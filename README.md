@@ -18,12 +18,12 @@
 - Junior Developer | *SheCodes* | *In progress*
 - Business Systems Analysis (short course) | *UCT* | *In progress*
 
-### Skills
+### Languages and tools
 
 - Tableau, Power-BI, Excel
 - SQL, Python
 - HTML, CSS, Javascript
-- Responsive Design
+  
 
 <!---
 thandierab/thandierab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
