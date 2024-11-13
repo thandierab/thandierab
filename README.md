@@ -15,14 +15,17 @@
 - Google Data Analytics Professional Certificate | *COURSERA*
 - Google Business Intelligence Professional Certificate | *COURSERA*
 - Microsoft Power BI Data Analyst Professional Certificate | *COURSERA* | *Power-BI*
-- Junior Developer | *SheCodes* | *In progress*
-- Business Systems Analysis (short course) | *UCT* | *In progress*
+- Junior Front-End Developer | *SheCodes* 
+- Business Systems Analysis (short course) | *UCT* 
 
 ### Languages and tools
 
-- Tableau, Power-BI, Excel
+- Microsoft Office (Powerpoint, Excel, Word)
+- Tableau, Power-BI
 - SQL, Python
 - HTML, CSS, Javascript
+- Draw.io
+- VS Code
   
 
 <!---
