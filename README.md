@@ -11,12 +11,14 @@
 - Commercial Banking and Credit Analyst (CBCA) | *Corporate Finance Institute*
 
 ### IT
-- Business Intelligence and Data Analysis (BIDA) | *Corporate Finance Institute*
-- Google Data Analytics Professional Certificate | *COURSERA*
-- Google Business Intelligence Professional Certificate | *COURSERA*
-- Microsoft Power BI Data Analyst Professional Certificate | *COURSERA* | *Power-BI*
-- Junior Front-End Developer | *SheCodes* 
+- 6 Sigma Yellow Belt
 - Business Systems Analysis (short course) | *UCT* 
+- Business Intelligence and Data Analysis (BIDA) | *Corporate Finance Institute*
+- Google Data Analytics Professional Certificate | *Google*
+- Google Business Intelligence Professional Certificate | *Google*
+- Microsoft Power BI Data Analyst Professional Certificate | *Microsoft* 
+- Junior Front-End Developer | *SheCodes* 
+
 
 ### Languages and tools
 
