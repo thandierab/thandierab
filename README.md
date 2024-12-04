@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Thandie
 
-- 👀 I’m interested in Business Analysis, Business Intelligence and Data Analysis
+- 👀 I’m interested in Process Analysis, Business Analysis, Business Intelligence and Data Analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Business Analysis projects
 - ⚡ Fun fact: I'm a wildlife enthusiast!
 
 ## My Certifications
